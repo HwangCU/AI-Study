@@ -1,7 +1,7 @@
 # AI Study
 
 2024/09/26 ~ **기계학습 및 딥러닝 이론을** 학습하고 **PyTorch**를 통해 실습을 진행하는 Study입니다.
-- Notion: https://www.notion.so/AI-PJT-Study-107bcffe6c8f805a98d8de0d7b1d4cac
+- 스터디 소개(Notion): https://www.notion.so/AI-PJT-Study-107bcffe6c8f805a98d8de0d7b1d4cac
 
 **Deep Learning zero To All**님의 YouTube channel 중 모두를 위한 딥러닝 시즌2 - PyTorch 커리큘럼을 기반으로 학습을 진행합니다.
 - YouTube: http://bit.ly/2UVk3kn
